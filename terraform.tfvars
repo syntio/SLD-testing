@@ -1,2 +1,1 @@
-project                  = "syntio-aquarium"
-
+project                  = "syntio-aquarium-kraken-dev"
