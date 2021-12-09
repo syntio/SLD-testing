@@ -7,6 +7,3 @@ variable "region" {
 variable "zone" {
   default = "europe-west4-a"
 }
-
-variable "gcp_auth_file" {
-}
